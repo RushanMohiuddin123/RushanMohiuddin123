@@ -362,12 +362,4 @@ My goal is to build **intelligent and practical systems that combine software wi
 </p>
 ```
 
-Just replace:
 
-```text
-YOUR_USERNAME
-YOUR_LINKEDIN_URL
-YOUR_EMAIL
-```
-
-with your actual details.
